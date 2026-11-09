@@ -1,16 +1,16 @@
 {
-  "version": "v0.2.3",
-  "notes": "CuadraYa SGI v0.2.3: Actualización de arquitectura comercial, planes profesionales para negocios venezolanos, módulo de Deliveries con Bot de Telegram (@CuadraYaBot) con GPS en vivo, geolocalización de sede y sincronización continua en la nube.",
-  "pub_date": "2026-11-06T16:55:00Z",
-  "download_url": "https://github.com/mtovardev/CuadraYa-Update/releases/latest",
+  "version": "v0.2.4",
+  "notes": "CuadraYa SGI v0.2.4: Creación de usuarios en Modo Prueba / Demo gratuita, detalle de productos pagados en despachos de Telegram Bot (@CuadraYaBot) para motorizados, sincronización de repositorios y actualizador oficial CuadraYa-UpdatePc.",
+  "pub_date": "2026-11-09T13:00:00Z",
+  "download_url": "https://github.com/mtovardev/CuadraYa-UpdatePc/releases/latest",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.3/CuadraYa_0.2.3_x64-setup.exe"
+      "url": "https://github.com/mtovardev/CuadraYa-UpdatePc/releases/download/v0.2.4/CuadraYa_0.2.4_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/mtovardev/CuadraYa-Update/releases/download/v0.2.3/CuadraYa_0.2.3_amd64.deb"
+      "url": "https://github.com/mtovardev/CuadraYa-UpdatePc/releases/download/v0.2.4/CuadraYa_0.2.4_amd64.deb"
     }
   }
 }
